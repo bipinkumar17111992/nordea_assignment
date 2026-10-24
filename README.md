@@ -4,5 +4,4 @@ Command to run:
 1) Clone the code from GitHub 
 2) Please keep .in file in /repository/input    .....Already given test file are there
 3) Please do maven clean 
-4) 
 4) Please do maven install ...after install is done automatically output files .csv, .xml in /repository/output
